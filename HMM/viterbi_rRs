@@ -1,0 +1,22 @@
+/Users/wangxuan/Python_wx/Algorithm/venv/bin/python /Users/wangxuan/MachineLearning/HMM/I*=(i1*,i2*,...,iT*)_viterbiDecodeAlgorithm.py
+[[0.05  0.02  0.03 ]
+ [0.048 0.08  0.032]
+ [0.056 0.084 0.14 ]]
+[2 2 2]
+[0.028  0.0504 0.042 ]
+[[0.014   0.0056  0.0084 ]
+ [0.01512 0.0252  0.01008]
+ [0.0084  0.0126  0.021  ]]
+[1 1 2]
+[0.00756 0.01008 0.0147 ]
+[[0 0 0]
+ [2 2 2]
+ [1 1 2]]
+2
+[[0 0 0]
+ [2 2 2]
+ [1 1 2]]
+2
+[2, 2, 2]
+
+Process finished with exit code 0
